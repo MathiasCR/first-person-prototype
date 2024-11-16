@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d89882d0db5e004a815a53827f32477, type: 3}
+  m_Name: Arrow HitImpact Profile
+  m_EditorClassIdentifier: 
+  ProfileName: Arrow Hit Impact Profile
+  ImpactSpecifications:
+  - MaterialName: 0
+    VolumeMultiplier: 1
+    ImpactClip: {fileID: 8300000, guid: e8b5e18bca73faf42a532ab5995beb26, type: 3}
+  - MaterialName: 1
+    VolumeMultiplier: 0.4
+    ImpactClip: {fileID: 8300000, guid: 6038c458ce56ce34898a9ed12b53fddd, type: 3}
+  - MaterialName: 2
+    VolumeMultiplier: 1
+    ImpactClip: {fileID: 0}
+  - MaterialName: 3
+    VolumeMultiplier: 1
+    ImpactClip: {fileID: 0}
+  - MaterialName: 6
+    VolumeMultiplier: 0.4
+    ImpactClip: {fileID: 8300000, guid: 6038c458ce56ce34898a9ed12b53fddd, type: 3}
+  - MaterialName: 7
+    VolumeMultiplier: 1
+    ImpactClip: {fileID: 0}
+  - MaterialName: 8
+    VolumeMultiplier: 0.4
+    ImpactClip: {fileID: 8300000, guid: 2a8a0dec830f1b84c9fe7ed2c7bed106, type: 3}
+  - MaterialName: 9
+    VolumeMultiplier: 0.4
+    ImpactClip: {fileID: 8300000, guid: 583d7362446139948b1748684a380355, type: 3}

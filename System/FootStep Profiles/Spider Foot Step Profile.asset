@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14041372b200034e864500bcb1e5990, type: 3}
+  m_Name: Spider Foot Step Profile
+  m_EditorClassIdentifier: 
+  ProfileName: Spider Foot Step Profile
+  MaterialSpecifications:
+  - MaterialName: 0
+    VolumeMultiplier: 1
+    SoftSteps:
+    - {fileID: 8300000, guid: a8a5b89c4b3cb7c4380e7f8b995e790c, type: 3}
+    - {fileID: 8300000, guid: 064bd15e87131b941adbff1d057b32cc, type: 3}
+    - {fileID: 8300000, guid: 84559594fdb1509468235ee1cd9dc860, type: 3}
+    - {fileID: 8300000, guid: 8bb0b2e987bc6b645a37e9b89a9ccad4, type: 3}
+    - {fileID: 8300000, guid: 7d40692535e2a9440aff2eb42e850803, type: 3}
+    - {fileID: 8300000, guid: b13e8a8cb5eaab2459c2a39cb18218a3, type: 3}
+    MediumSteps:
+    - {fileID: 8300000, guid: 84559594fdb1509468235ee1cd9dc860, type: 3}
+    - {fileID: 8300000, guid: 064bd15e87131b941adbff1d057b32cc, type: 3}
+    - {fileID: 8300000, guid: 7d40692535e2a9440aff2eb42e850803, type: 3}
+    - {fileID: 8300000, guid: 8bb0b2e987bc6b645a37e9b89a9ccad4, type: 3}
+    - {fileID: 8300000, guid: a8a5b89c4b3cb7c4380e7f8b995e790c, type: 3}
+    - {fileID: 8300000, guid: b13e8a8cb5eaab2459c2a39cb18218a3, type: 3}
+    HardSteps:
+    - {fileID: 8300000, guid: a8a5b89c4b3cb7c4380e7f8b995e790c, type: 3}
+    - {fileID: 8300000, guid: 064bd15e87131b941adbff1d057b32cc, type: 3}
+    - {fileID: 8300000, guid: 84559594fdb1509468235ee1cd9dc860, type: 3}
+    - {fileID: 8300000, guid: 8bb0b2e987bc6b645a37e9b89a9ccad4, type: 3}
+    - {fileID: 8300000, guid: 7d40692535e2a9440aff2eb42e850803, type: 3}
+    - {fileID: 8300000, guid: b13e8a8cb5eaab2459c2a39cb18218a3, type: 3}
+    Scuffs: []
+    Jumps: []
+    Lands: []

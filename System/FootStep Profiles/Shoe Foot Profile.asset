@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14041372b200034e864500bcb1e5990, type: 3}
+  m_Name: Shoe Foot Profile
+  m_EditorClassIdentifier: 
+  ProfileName: Shoe Foot Profile
+  MaterialSpecifications:
+  - MaterialName: 0
+    VolumeMultiplier: 1
+    SoftSteps:
+    - {fileID: 8300000, guid: ea2cec32ab5971444acc8c014f1b43bf, type: 3}
+    - {fileID: 8300000, guid: cfa87d0e4c4c92d4da32fded3ed99428, type: 3}
+    - {fileID: 8300000, guid: 08f5bec865901a5479605f3a7c2f3d32, type: 3}
+    - {fileID: 8300000, guid: 6cfd57a8d140e21499bd58b11843a90e, type: 3}
+    - {fileID: 8300000, guid: 44ddec99e1b7b0d4a8ed012bab91a182, type: 3}
+    MediumSteps:
+    - {fileID: 8300000, guid: 27ae6cab4bcac854d9c755fd0b3a10d0, type: 3}
+    - {fileID: 8300000, guid: 6c525525ab3065144a82008797a3ad6b, type: 3}
+    - {fileID: 8300000, guid: 4ee3abaf207c34a449b5cbdfc067ce76, type: 3}
+    - {fileID: 8300000, guid: ec1ac7dcb07f26a4f9b5fe821d1d4ea1, type: 3}
+    - {fileID: 8300000, guid: db24802ea5604e944bc25e831d36d25e, type: 3}
+    HardSteps:
+    - {fileID: 8300000, guid: 5b7005ba75075cf44a88fcaa05f089b0, type: 3}
+    - {fileID: 8300000, guid: d19f5a3d308d7154082ce751e1d54667, type: 3}
+    - {fileID: 8300000, guid: 70d47eedd57e1a042886ee4519d36dd1, type: 3}
+    - {fileID: 8300000, guid: f4d97aae80109f441a7b711aacbd109a, type: 3}
+    - {fileID: 8300000, guid: 4262930613ceac440b6c10f7fbd4b7d8, type: 3}
+    Scuffs:
+    - {fileID: 8300000, guid: c324aec382a857641afe25dc241ec021, type: 3}
+    - {fileID: 8300000, guid: b9ec9db6c0e3ec24e93a8eb58d8b5f24, type: 3}
+    Jumps:
+    - {fileID: 8300000, guid: 7e5118a928fb0124bbb6381787208a32, type: 3}
+    - {fileID: 8300000, guid: 6711918daa3a59144ab9afbc7f86c7c6, type: 3}
+    Lands:
+    - {fileID: 8300000, guid: 928aed08f73201344903890eecb8d0b1, type: 3}
+    - {fileID: 8300000, guid: 2376c8c522ab50f41bcc8ed29c3b83a6, type: 3}
+  - MaterialName: 1
+    VolumeMultiplier: 1
+    SoftSteps:
+    - {fileID: 8300000, guid: 860265cad18318d4ea4c9b586037eced, type: 3}
+    - {fileID: 8300000, guid: 2a05a8c19a65afd41a4dabd847edfcd9, type: 3}
+    - {fileID: 8300000, guid: 80765d4587f43fa42b1a9c4482a226f2, type: 3}
+    - {fileID: 8300000, guid: 29653fef68cba6d4ca10732394ed1fd1, type: 3}
+    - {fileID: 8300000, guid: 68f4a25313a986940aed5d009b25ff05, type: 3}
+    MediumSteps:
+    - {fileID: 8300000, guid: 83819e700d247cb4eb6ce73b88c5d8e2, type: 3}
+    - {fileID: 8300000, guid: 7f3648bbea08e3d429fc983db2e89eb9, type: 3}
+    - {fileID: 8300000, guid: d58a0bc9827aa3749b5086e8cd1a621c, type: 3}
+    - {fileID: 8300000, guid: fa5ea198c8185a64c8e259752d0b905d, type: 3}
+    - {fileID: 8300000, guid: 839406b1698f6aa4cb4d98183f97ba93, type: 3}
+    HardSteps:
+    - {fileID: 8300000, guid: a6040666dc65a5648b0eb2b493771c2a, type: 3}
+    - {fileID: 8300000, guid: 1d6c18922d037af4ca0b69efad24e39a, type: 3}
+    - {fileID: 8300000, guid: b82a99ebfb78caa40bd5570d1ddc6ad4, type: 3}
+    - {fileID: 8300000, guid: 0e966da6d1689af48aa6741bc080c8a5, type: 3}
+    - {fileID: 8300000, guid: e5778122d48f1ba47a0bf18d1aa36694, type: 3}
+    Scuffs:
+    - {fileID: 8300000, guid: 439faf915f509bf42b56540144651e97, type: 3}
+    - {fileID: 8300000, guid: 5bf37e8469f0f46439276ee9904ce52d, type: 3}
+    Jumps:
+    - {fileID: 8300000, guid: e908da630b6b3644ba7825a9d6b64440, type: 3}
+    - {fileID: 8300000, guid: 43c9dd59a58261a4db0df2e44ab4208b, type: 3}
+    Lands:
+    - {fileID: 8300000, guid: 4011dfbbf382b154b9452f47a62a1c99, type: 3}
+    - {fileID: 8300000, guid: 184809bc9ddd6aa4fb3b4c275a1e7e5e, type: 3}
+  - MaterialName: 2
+    VolumeMultiplier: 1
+    SoftSteps:
+    - {fileID: 8300000, guid: d849fc7875d7dac47be780ae28ef087a, type: 3}
+    - {fileID: 8300000, guid: a6e35d2319d7b864694a7939d5d46cdf, type: 3}
+    - {fileID: 8300000, guid: a3857ecae5aa7ae449d670e78c98ca57, type: 3}
+    - {fileID: 8300000, guid: 9fa10adb7489ced408c10ffae42e4621, type: 3}
+    - {fileID: 8300000, guid: 21dc51e88864217488df4b5ef1d3f4d4, type: 3}
+    MediumSteps:
+    - {fileID: 8300000, guid: 49aaa0309bb40084bb99ca459f11ec5e, type: 3}
+    - {fileID: 8300000, guid: bfdb5c98b63f2b444bf7d9b9ecb3867d, type: 3}
+    - {fileID: 8300000, guid: 9503ae3b039c62246aa2b9d9b60a84d7, type: 3}
+    - {fileID: 8300000, guid: e35a82366871bc241818eadc0ae14d1b, type: 3}
+    - {fileID: 8300000, guid: 919b85e2c9372c74eacefbab44965d91, type: 3}
+    HardSteps:
+    - {fileID: 8300000, guid: 431c95a8ecf7a7c40a52017152ac16c7, type: 3}
+    - {fileID: 8300000, guid: 7305549baf42c894bb17ddee142c9b61, type: 3}
+    - {fileID: 8300000, guid: 60e3761cc15382243871578105069df6, type: 3}
+    - {fileID: 8300000, guid: cdc986decae82b24a9a53a07ce521043, type: 3}
+    - {fileID: 8300000, guid: 984ac89331152104297c3f894587cf25, type: 3}
+    Scuffs:
+    - {fileID: 8300000, guid: 9e21fc688519cf246ae1d9c593b98502, type: 3}
+    - {fileID: 8300000, guid: 3b9a908ed9c7c6f4598bb6c04e683122, type: 3}
+    Jumps:
+    - {fileID: 8300000, guid: f7ad641dbff68d344bfbd48f5f220cc8, type: 3}
+    - {fileID: 8300000, guid: c96babfb237f063469440babcacb048c, type: 3}
+    Lands:
+    - {fileID: 8300000, guid: 1177acba5ad8e2e48842a44c6d60d411, type: 3}
+    - {fileID: 8300000, guid: b44d2099fa63e364c816a85734aef457, type: 3}
+  - MaterialName: 6
+    VolumeMultiplier: 1
+    SoftSteps:
+    - {fileID: 8300000, guid: 8027d186afb7d2f42aa1aff4b50b7893, type: 3}
+    - {fileID: 8300000, guid: 831acbbc5142e3c47b4a22dea7264e06, type: 3}
+    - {fileID: 8300000, guid: a5d97fd4a389cc14c9f55ab41092ea9c, type: 3}
+    - {fileID: 8300000, guid: 27dc4f6700c8bc244ab00b56ecde6178, type: 3}
+    - {fileID: 8300000, guid: 2b5458d2896765545ac52a9c68afa7b5, type: 3}
+    MediumSteps:
+    - {fileID: 8300000, guid: 0216e0ae2cd760f45a6fb2005bbf4457, type: 3}
+    - {fileID: 8300000, guid: 0b72e6a3bfab4d34a8afa0d0dcf6ba65, type: 3}
+    - {fileID: 8300000, guid: 1f214a5c50fdf1046b97ffdd1b010db1, type: 3}
+    - {fileID: 8300000, guid: 2262ae96b63a37644bf0350b0e3476c6, type: 3}
+    - {fileID: 8300000, guid: 6986f01238de0a84f94e5e348edbfa2f, type: 3}
+    HardSteps:
+    - {fileID: 8300000, guid: e04765d6e64192049813b2286978b39f, type: 3}
+    - {fileID: 8300000, guid: 975f5fa34e0611042894998cf3f3e0d2, type: 3}
+    - {fileID: 8300000, guid: ca8ed69d27f78b04c9145bc54e9a899b, type: 3}
+    - {fileID: 8300000, guid: 6f18b593de2967c468b1c41a65d3f31a, type: 3}
+    - {fileID: 8300000, guid: d1b0c9bc570fce947a20d2b6bb32e410, type: 3}
+    Scuffs:
+    - {fileID: 8300000, guid: 67d482da10050df45bb4a15c8e3b9097, type: 3}
+    - {fileID: 8300000, guid: 44e36471cd508ea42ac83c2b6babeb06, type: 3}
+    Jumps:
+    - {fileID: 8300000, guid: 89dccbe7acd5e9144a391a8b96ee8b3b, type: 3}
+    - {fileID: 8300000, guid: f89be7e9a28ac6b4b943b7b2fe612dc3, type: 3}
+    Lands:
+    - {fileID: 8300000, guid: 6134f27734a8ada4095979d5d1e5bb2b, type: 3}
+    - {fileID: 8300000, guid: 66d553523593fe74aa45f0c11f08e556, type: 3}
+  - MaterialName: 7
+    VolumeMultiplier: 1
+    SoftSteps:
+    - {fileID: 8300000, guid: 87d6a0e2c9f637f4db222666574561e3, type: 3}
+    - {fileID: 8300000, guid: a3f68da3cbe9d064d9086b398ebd9bfc, type: 3}
+    - {fileID: 8300000, guid: 61c4d30f85473454dbb2744986d04c29, type: 3}
+    - {fileID: 8300000, guid: be332c4280b5e0f4f9e69ace43d75ad5, type: 3}
+    - {fileID: 8300000, guid: 5491a3858b2b18548a783d34abbdca2c, type: 3}
+    MediumSteps:
+    - {fileID: 8300000, guid: 2af7662451f8e574eae592d5fe66034b, type: 3}
+    - {fileID: 8300000, guid: bd556f8f13f1a9e4e9fef00a48ba89aa, type: 3}
+    - {fileID: 8300000, guid: be4d03731ab8f3d4baf5d21e53bfebbf, type: 3}
+    - {fileID: 8300000, guid: 1a86ac7b00b7fc14b93b93ded9586bc6, type: 3}
+    - {fileID: 8300000, guid: b7ca2070ebd01f94a823c0df71447144, type: 3}
+    HardSteps:
+    - {fileID: 8300000, guid: 010b166e21be7c54dacfa8c0165f8762, type: 3}
+    - {fileID: 8300000, guid: 70766a05a7e2e764187d22cea23686d2, type: 3}
+    - {fileID: 8300000, guid: c201971ee7e9e3a4fa7661f57212f71e, type: 3}
+    - {fileID: 8300000, guid: 635520923689e0a4c807970b60300fb5, type: 3}
+    - {fileID: 8300000, guid: 832813062846a124b9c52248118eee8a, type: 3}
+    Scuffs:
+    - {fileID: 8300000, guid: 2cc8f78adba0c2e4095f1df72ff66901, type: 3}
+    - {fileID: 8300000, guid: 85d94876a50468c46890094ba30d3d68, type: 3}
+    Jumps:
+    - {fileID: 8300000, guid: d07c70864b3b2da4e85adc2c727b4d3b, type: 3}
+    - {fileID: 8300000, guid: 6e62ea054b99bd346bc4a08659b180d2, type: 3}
+    Lands:
+    - {fileID: 8300000, guid: 1577c9f57404fb54e9c70fc29053c688, type: 3}
+    - {fileID: 8300000, guid: 24401766faf9f6d498e28ab98efee350, type: 3}
+  - MaterialName: 8
+    VolumeMultiplier: 1
+    SoftSteps:
+    - {fileID: 8300000, guid: 43ace54f2a3cbb348b6367076bd17f3d, type: 3}
+    - {fileID: 8300000, guid: 4494659b15a30ef4d9f0aca10301309b, type: 3}
+    - {fileID: 8300000, guid: a661e2d3534935649afd8fa9135c75c5, type: 3}
+    - {fileID: 8300000, guid: d2a286f45f1614a48bd9566e99955362, type: 3}
+    - {fileID: 8300000, guid: 6e4ba97219de5bd4c90c6e3d29cb5296, type: 3}
+    MediumSteps:
+    - {fileID: 8300000, guid: 4d18e571ec35e454bb3933648469cc7e, type: 3}
+    - {fileID: 8300000, guid: 0fe69e77e41d8644ebf1caa2b3815c41, type: 3}
+    - {fileID: 8300000, guid: 07b9c457fd3660f4a8d87f75d4709555, type: 3}
+    - {fileID: 8300000, guid: 839f5f488d8815443a670f88e4a7a261, type: 3}
+    - {fileID: 8300000, guid: b12f22a403ecccf4688ed6df3b00d061, type: 3}
+    HardSteps:
+    - {fileID: 8300000, guid: 69cc1220b979b12479397a0aa10d6f87, type: 3}
+    - {fileID: 8300000, guid: 9cacc474d995d0e45be05c626a5e5aa6, type: 3}
+    - {fileID: 8300000, guid: efabada420103bb4da075320c703cf55, type: 3}
+    - {fileID: 8300000, guid: 5513a926356fe474ba0844f89a2b5248, type: 3}
+    - {fileID: 8300000, guid: 8511f2dc7f40a954aa2999931ce83bc9, type: 3}
+    Scuffs:
+    - {fileID: 8300000, guid: 1a2cc476779e9e343ade4c8100f7a38c, type: 3}
+    - {fileID: 8300000, guid: 2bd7dc189b1583646b149d4b53bccb51, type: 3}
+    Jumps:
+    - {fileID: 8300000, guid: c179cfb496b058f4bbe5a81fc58e7189, type: 3}
+    - {fileID: 8300000, guid: 322fc054f99d3754faee2d9720357424, type: 3}
+    Lands:
+    - {fileID: 8300000, guid: 656a901a737c1e44d9de5f02eba77c9e, type: 3}
+    - {fileID: 8300000, guid: bf8396524ce09594bb893cab9616c8b6, type: 3}

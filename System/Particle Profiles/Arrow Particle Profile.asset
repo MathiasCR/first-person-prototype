@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a9f062fcc9f39449a5ce5a08bc30a21, type: 3}
+  m_Name: Arrow Particle Profile
+  m_EditorClassIdentifier: 
+  ProfileName: Arrow Particle Profile
+  ParticleSpecifications:
+  - MaterialName: 0
+    ParticleSystems:
+    - {fileID: 2812416786431703570, guid: deba1c57a7c85c94dac31e73cfd86a4a, type: 3}
+  - MaterialName: 1
+    ParticleSystems: []
+  - MaterialName: 2
+    ParticleSystems: []
+  - MaterialName: 3
+    ParticleSystems: []
+  - MaterialName: 6
+    ParticleSystems: []
+  - MaterialName: 7
+    ParticleSystems: []
+  - MaterialName: 8
+    ParticleSystems: []
+  - MaterialName: 9
+    ParticleSystems: []
